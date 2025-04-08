@@ -4,9 +4,9 @@ This script performs ETL (Extract, Transform, Load) operations on the New York C
 
 📁Project Structure
 nyc_yellow_taxi_etl/
-├── yellow_taxi_etl.py      # Main ETL script
-├── README.md               # This documentation file
-└── yellow_tripdata_2024-*.parquet  # Monthly source data files (Jan to Dec)
+* yellow_taxi_etl.py      # Main ETL script
+* README.md               # This documentation file
+* yellow_tripdata_2024-*.parquet  # Monthly source data files (Jan to Dec)
 
 🚀** What the Code Does**
 1. Extract
