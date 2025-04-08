@@ -30,6 +30,7 @@ pip install pandas numpy sqlalchemy psycopg2 pyarrow
 * A user: postgres with password
 
 ✅ Output
+
 A table named nyc_yello_taxi in your PostgreSQL database containing the cleaned data from all 12 months.
 
 
