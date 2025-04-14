@@ -33,5 +33,6 @@ pip install pandas numpy sqlalchemy psycopg2 pyarrow
 
 A table named nyc_yello_taxi was created in PostgreSQL database containing the cleaned data from all 12 months.
 
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/5184a050-a360-4d40-b6c4-67dd838c13b9" />
 
-<img width="464" alt="image" src="https://github.com/user-attachments/assets/e9c2ce7a-055d-443a-aec8-7f8ab0d5d922" />
+
